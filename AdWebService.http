@@ -1,0 +1,8 @@
+@AdWebService_HostAddress = http://localhost:5252
+
+POST {{AdWebService_HostAddress}}/api/Main/load
+
+###
+
+GET {{AdWebService_HostAddress}}/api/Main/search/%2Fru
+Accept: application/json

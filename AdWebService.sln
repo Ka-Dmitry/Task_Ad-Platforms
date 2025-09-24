@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdWebService", "AdWebService.csproj", "{2300DB25-91D1-41A8-A013-30034564038B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2300DB25-91D1-41A8-A013-30034564038B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2300DB25-91D1-41A8-A013-30034564038B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2300DB25-91D1-41A8-A013-30034564038B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2300DB25-91D1-41A8-A013-30034564038B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF52399C-CE34-440C-B0EB-3CFD2B2553C0}
+	EndGlobalSection
+EndGlobal
